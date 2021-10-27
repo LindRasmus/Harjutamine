@@ -3,3 +3,4 @@ GitHub on veebimajutusplatvorm versioonihalduseks ja ühistööks.
 Loob võimalused töötada projektiga sõltumata asukohast.
 Seda kasutatakse tavaliselt avatud lähtekoodiga projektide majutamiseks.
 Ma saan kasutada GitHubi kodutööde tegemises. Samuti saan kasutada seda ka enda arendamisesks programmeerimis valdkonnas.
+Platvormi GitHub.com arendus algas 19. oktoobril 2007. Sait käivitati 2008. aastal aprillis Tom Preston-Werner, Chris Wanstrath, PJ Hyett ja Scott Chacon poolt, nemad ka selle tegid.
