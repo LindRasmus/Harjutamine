@@ -2,3 +2,4 @@ Git on tasuta ja avatud lähtekoodiga hajus versioonihaldussüsteem, mis on lood
 GitHub on veebimajutusplatvorm versioonihalduseks ja ühistööks.
 Loob võimalused töötada projektiga sõltumata asukohast.
 Seda kasutatakse tavaliselt avatud lähtekoodiga projektide majutamiseks.
+Ma saan kasutada GitHubi kodutööde tegemises. Samuti saan kasutada seda ka enda arendamisesks programmeerimis valdkonnas.
